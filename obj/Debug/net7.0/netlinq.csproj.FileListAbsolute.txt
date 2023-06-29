@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\bin\Debug\net7.0\netlinq.exe
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\bin\Debug\net7.0\netlinq.deps.json
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\bin\Debug\net7.0\netlinq.runtimeconfig.json
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\bin\Debug\net7.0\netlinq.dll
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\bin\Debug\net7.0\netlinq.pdb
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\obj\Debug\net7.0\netlinq.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\obj\Debug\net7.0\netlinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\obj\Debug\net7.0\netlinq.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\obj\Debug\net7.0\netlinq.AssemblyInfo.cs
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\obj\Debug\net7.0\netlinq.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\obj\Debug\net7.0\netlinq.dll
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\obj\Debug\net7.0\refint\netlinq.dll
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\obj\Debug\net7.0\netlinq.pdb
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\obj\Debug\net7.0\netlinq.genruntimeconfig.cache
+C:\Users\hp\Desktop\sergio\.net\linq\netlinq\obj\Debug\net7.0\ref\netlinq.dll
